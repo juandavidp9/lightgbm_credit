@@ -1,5 +1,5 @@
 # LightGBM Credit Model vs Logit 
-A notebook with a lightbgm model to assess credit risk
+A notebook with a lightgbm model to assess credit risk
 
 https://lightgbm.readthedocs.io/en/v3.3.2/
 
